@@ -97,6 +97,7 @@ The Telegram menu lists start, random, sub, and language. To search, just send a
 ## How it's built
 
 * **Serverless:** runs on the edge, no servers to manage.
+* **Modular core:** version 2.0 — clean ESM modules and a test suite, same behavior as before.
 * **AI search:** understands plain-language queries and resolves titles phonetically.
 * **Multiple sources:** ratings and metadata from several references, de-duplicated and cross-checked.
 * **Year-aware matching:** remakes and same-name titles don't get mixed up.
